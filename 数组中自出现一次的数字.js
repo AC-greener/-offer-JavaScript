@@ -26,7 +26,7 @@ function FindNumsAppearOnce(array) {
   arr2.forEach(item => {
     result2 ^= item
   })
-  // console.log(result1, result2)
+  // console.log(result1, result2) 
   return [result1, result2]
 
 }
